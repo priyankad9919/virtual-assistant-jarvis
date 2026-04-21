@@ -1,2 +1,2 @@
 # virtual-assistant-jarvis
-A voice-controlled virtual assistant that developed using Python and offline speech recognition.
+Jarvis is a voice-controlled virtual assistant developed using Python and offline speech recognition. It uses a speech recognition engine powered by the Vosk model which allows our system to convert spoken words into text in real time. For the output part, it uses a text-to-speech engine using pyttsx3 which allows the system to speak responses back to the user, creating a complete voice interaction loop.
